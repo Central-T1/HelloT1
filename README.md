@@ -3,4 +3,4 @@
 :)
 
 
-Learn git [a relative link](BeginWithGit_TH.md)
+Learn git [Link](BeginWithGit_TH.md)
